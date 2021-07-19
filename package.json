@@ -1,0 +1,30 @@
+{
+  "name": "gptanswers-node",
+  "version": "1.0.0",
+  "description": "This is code for building a GPT-3 powered knowledge base application. It's the example from the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). You can deploy and run this code in a few steps but you'll need the following:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabblelab/gptanswers-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabblelab/gptanswers-node/issues"
+  },
+  "homepage": "https://github.com/dabblelab/gptanswers-node#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bad-words": "^3.0.4",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.3.0",
+    "form-data": "^4.0.0",
+    "morgan": "^1.10.0"
+  }
+}
