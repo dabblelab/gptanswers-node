@@ -8,12 +8,13 @@ const client = axios.create({
   headers: { 'Authorization': 'Bearer ' + apiKey }
 });
 
-// Add your documentation here. These will be used to answer questions. You can add up to 200.
+// Add your documents here. These will be used to answer questions. You can add up to 200.
 // Alternately, you can store documents in a file. See: https://beta.openai.com/docs/api-reference/answers 
 const documents = [
-  "I am a day older than I was yesterday.<|endoftext|>",
-  "I build applications that use GPT-3.<|endoftext|>",
-  "My preferred programming is Python.<|endoftext|>"
+  "This app was built using JavaScript and Node.JS.<|endoftext|>",
+  "The app has a simple HTML form that users can use to submit questions.<|endoftext|>",
+  "GPT-3 will use documents provided by the developer as a knowledge base to derive answers from.<|endoftext|>",
+  "This is an example application that can be used to learn how to build apps using the OpenAI API.<|endoftext|>"
 ]
 
 const endpoint = 'https://api.openai.com/v1/answers';
