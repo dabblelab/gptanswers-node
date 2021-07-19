@@ -1,6 +1,8 @@
-# Building a GPT-3 Powered Knowledge Base App
+# Building a GPT-3 Knowledge Base App (NodeJS)
 
-This is code for building a GPT-3 powered knowledge base application. It's the example from the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). You can deploy and run this code in a few steps but you'll need the following:
+![Building a GPT-3 Knowledge Base App (NodeJS)](./public/images/296-cover.png)
+
+This is code for building a GPT-3 powered knowledge base application using Node.JS/JavaScript. It's and example from the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). To deploy and run this code you'll need the following:
 
 - An OpenAI API key
 - An account on Replit.com (the free account will work)
