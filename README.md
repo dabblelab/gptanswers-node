@@ -11,16 +11,14 @@ You'll need two things to make this code work.
 
 ## Deploying the code
 
-1. Click on the button below to copy this code to your replit.com account
+1. Click the 'Run on Replit.com' button below to copy this code to your Replit.com account
 
-[![Run on Replit.com](https://repl.it/badge/github/dabblelab/building-discord-bots-with-twilio-autopilot)](https://repl.it/github/dabblelab/building-discord-bots-with-twilio-autopilot)
+  [![Run on Replit.com](https://repl.it/badge/github/dabblelab/gptanswers-node)](https://repl.it/github/dabblelab/gptanswers-node)
 
-  ![run on replit button goes here](./public/images/run-on-replit.svg)
-
-2. Setup a secret / environment variable in replit.com for our OpenAI API key
+2. Create a secret / environment variable in Replit.com for your OpenAI API key
    - In replit, click the padlock icon to add a new secret / environment variable
    - For the name use `OPENAI_API_KEY` and your OpenAI API key for the value
 
 ## Running the application
 
-After your OpenAI API key is set as an environment variable, you can just click the `Run` button in the replit.com IDE. 
+After your OpenAI API key is set as an environment variable, you can just click the `Run` button in the Replit.com IDE. 
