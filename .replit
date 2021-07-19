@@ -1,1 +1,2 @@
+language = "nodejs"
 Run = "node ./bin/www"
