@@ -7,18 +7,17 @@ This is code for building a GPT-3 powered knowledge base application using Node.
 - An OpenAI API key
 - An account on Replit.com (the free account will work)
 
-## Deploying the code
+## Using this code
 
-1. Click the 'Run on Replit.com' button below to copy this code to your Replit.com account.
+1. Watch the [2-minute tutorial video](#). If you're new to this stuff, watch the Dabble Lab [Getting Started](#) video.
+2. Click the 'Run on Replit.com' button below to copy this code to your Replit.com account.
 
     [![Run on Replit.com](https://repl.it/badge/github/dabblelab/gptanswers-node)](https://repl.it/github/dabblelab/gptanswers-node)
 
-2. In Replit.com, click the padlock icon on the left-side menu and add a new secret / environment variable named `OPENAI_API_KEY` and make the value your OpenAI API key. 
-
-## Running the application
-
-After your OpenAI API key is set as an environment variable, you can just click the `Run` button in the Replit.com IDE.
+3. In Replit.com, add a new secret named `OPENAI_API_KEY` and make the value your OpenAI API key. 
+4. Add your own content to the answers.json file.
+5. Run and test the app in Replit
 
 ## Question and comments
 
-If you have questions or comments, please post them on the [OpenAI Community Topic](#) for this project, or on the [GitHub Discussions](https://github.com/dabblelab/gptanswers-node/discussions) page for this code. Thanks so much!
+If you have questions or comments, please post them on the [OpenAI Community Topic](https://community.openai.com/t/getting-started-with-the-openai-api-and-node-js-javascript/223) for this project, or on the [GitHub Discussions](https://github.com/dabblelab/gptanswers-node/discussions) page for this code. Thanks so much!
