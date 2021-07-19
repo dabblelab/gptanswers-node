@@ -17,4 +17,8 @@ This is code for building a GPT-3 powered knowledge base application using Node.
 
 ## Running the application
 
-After your OpenAI API key is set as an environment variable, you can just click the `Run` button in the Replit.com IDE. 
+After your OpenAI API key is set as an environment variable, you can just click the `Run` button in the Replit.com IDE.
+
+## Question and comments
+
+If you have questions or comments, please post them on the [OpenAI Community Topic](#) for this project, or on the [GitHub Discussions](https://github.com/dabblelab/gptanswers-node/discussions) page for this code. Thanks so much!
