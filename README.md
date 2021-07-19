@@ -1,6 +1,6 @@
 # Building a GPT-3 Powered Knowledge Base App
 
-This is a GPT-3 powered knowledge base application. It's the example from the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191) in Chapter 9. You can deploy and run this code in a few steps but you'll need the following:
+This is code for building a GPT-3 powered knowledge base application. It's the example from the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). You can deploy and run this code in a few steps but you'll need the following:
 
 - An OpenAI API key
 - An account on Replit.com (the free account will work)
