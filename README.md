@@ -1,6 +1,6 @@
 # Building a GPT-3 Knowledge Base App (NodeJS)
 
-![Building a GPT-3 Knowledge Base App (NodeJS)](./public/images/cover.png)
+[![YouTube Video](https://img.youtube.com/vi/o3IiN2eISA0/maxresdefault.jpg)](https://www.youtube.com/watch?v=o3IiN2eISA0)
 
 This is code for building a GPT-3 powered knowledge base application using Node.JS/JavaScript. It's and example from the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). To deploy and run this code you'll need the following:
 
