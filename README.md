@@ -1,6 +1,6 @@
 # Building a GPT-3 Knowledge Base App (NodeJS)
 
-![Building a GPT-3 Knowledge Base App (NodeJS)](./public/images/296-cover.png)
+![Building a GPT-3 Knowledge Base App (NodeJS)](./public/images/cover.png)
 
 This is code for building a GPT-3 powered knowledge base application using Node.JS/JavaScript. It's and example from the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). To deploy and run this code you'll need the following:
 
@@ -9,7 +9,7 @@ This is code for building a GPT-3 powered knowledge base application using Node.
 
 ## Using this code
 
-1. Watch the [2-minute tutorial video](#). If you're new to this stuff, watch the Dabble Lab [Getting Started](#) video.
+1. Watch the [2-minute tutorial video](https://youtu.be/o3IiN2eISA0).
 2. Click the 'Run on Replit.com' button below to copy this code to your Replit.com account.
 
     [![Run on Replit.com](https://repl.it/badge/github/dabblelab/gptanswers-node)](https://repl.it/github/dabblelab/gptanswers-node)
